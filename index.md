@@ -11,6 +11,7 @@ fotoğraf günlüğü tutmanızı ve Akıllı Araçlar ile bitkinizin
 
 - [Gizlilik Politikası](gizlilik.html)
 - [Hesap ve Veri Silme](hesap-silme.html)
+- [Kamerayla tanıma — eğitim fotoğraflarının künyesi](tanima-kaynaklari.html)
 
 ## İletişim
 
