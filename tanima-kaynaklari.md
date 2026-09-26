@@ -2,8 +2,10 @@
 title: Kamerayla tanıma — eğitim fotoğraflarının künyesi
 ---
 
-Growia'nın kamerayla bitki tanıma modeli **55122** fotoğrafla eğitildi. Bitki fotoğrafları
-[GBIF](https://www.gbif.org) (Global Biodiversity Information Facility) üzerinden yayımlananlardır.
+Growia'nın kamerayla bitki tanıma modeli **55832** fotoğrafla eğitildi. Bitki fotoğrafları
+[GBIF](https://www.gbif.org) (Global Biodiversity Information Facility) üzerinden yayımlananlardır;
+GBIF'te fotoğrafı az olan birkaç ev bitkisi için doğrudan [iNaturalist](https://www.inaturalist.org)
+gözlemleri kullanıldı.
 Modelin fotoğrafta bitki olmadığını anlayabilmesi için duvar, zemin, mobilya ve eşya
 fotoğrafları da kullanıldı (`bitki_degil` grubu); bunlar [Wikimedia Commons](https://commons.wikimedia.org)'tan
 alındı. Yalnızca **CC0**, **kamu malı** ve **CC BY** lisanslı fotoğraflar kullanıldı; ticari
@@ -20,8 +22,8 @@ Fotoğraflarını açık lisansla paylaşan herkese teşekkür ederiz. Fotoğraf
 
 | Lisans | Fotoğraf |
 |---|---|
-| CC BY 4.0 | 37539 |
-| CC0 1.0 | 17223 |
+| CC BY 4.0 | 38080 |
+| CC0 1.0 | 17392 |
 | CC BY 2.0 | 192 |
 | Kamu malı | 122 |
 | CC BY 3.0 | 44 |
@@ -104,7 +106,7 @@ Fotoğraflarını açık lisansla paylaşan herkese teşekkür ederiz. Fotoğraf
 | chaenomeles | 150 |
 | chlorophytum | 150 |
 | cigdem | 150 |
-| cin_para_bitkisi | 18 |
+| cin_para_bitkisi | 53 |
 | citrullus | 150 |
 | citrus | 150 |
 | clematis | 150 |
@@ -164,7 +166,7 @@ Fotoğraflarını açık lisansla paylaşan herkese teşekkür ederiz. Fotoğraf
 | erica | 150 |
 | erik | 150 |
 | eruca | 150 |
-| esek_kuyrugu | 7 |
+| esek_kuyrugu | 58 |
 | eucalyptus | 150 |
 | eucomis | 150 |
 | euonymus | 150 |
@@ -183,6 +185,7 @@ Fotoğraflarını açık lisansla paylaşan herkese teşekkür ederiz. Fotoğraf
 | fuchsia | 150 |
 | gaillardia | 150 |
 | gardenia | 150 |
+| gasteria | 150 |
 | gazania | 150 |
 | gelincik | 150 |
 | geranium | 150 |
@@ -191,7 +194,7 @@ Fotoğraflarını açık lisansla paylaşan herkese teşekkür ederiz. Fotoğraf
 | gladiolus | 84 |
 | goknar_ladin | 150 |
 | gunduz_sefasi | 150 |
-| gymnocalycium | 11 |
+| gymnocalycium | 150 |
 | gypsophila | 150 |
 | hamamelis | 150 |
 | hardal | 150 |
@@ -313,7 +316,7 @@ Fotoğraflarını açık lisansla paylaşan herkese teşekkür ederiz. Fotoğraf
 | pittosporum | 150 |
 | platanus | 150 |
 | platycerium | 150 |
-| pleiospilos | 2 |
+| pleiospilos | 39 |
 | plumbago | 150 |
 | polygonatum | 150 |
 | polyscias | 150 |
@@ -328,7 +331,7 @@ Fotoğraflarını açık lisansla paylaşan herkese teşekkür ederiz. Fotoğraf
 | ranunculus | 150 |
 | raphanus | 150 |
 | ravenala | 126 |
-| rhaphidophora | 11 |
+| rhaphidophora | 21 |
 | rhaphiolepis | 150 |
 | rhapis | 150 |
 | rhipsalis | 150 |
@@ -357,7 +360,7 @@ Fotoğraflarını açık lisansla paylaşan herkese teşekkür ederiz. Fotoğraf
 | servi_mazi | 150 |
 | sinningia | 150 |
 | sise_sukulent | 150 |
-| sixalix | 7 |
+| sixalix | 150 |
 | sogan | 150 |
 | solidago | 150 |
 | sorbus | 150 |
@@ -365,7 +368,7 @@ Fotoğraflarını açık lisansla paylaşan herkese teşekkür ederiz. Fotoğraf
 | spinacia | 150 |
 | spiraea | 150 |
 | stachys | 150 |
-| stapelia | 5 |
+| stapelia | 150 |
 | stephanotis | 143 |
 | strelitzia | 150 |
 | streptocarpus | 150 |
