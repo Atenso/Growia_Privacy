@@ -1,9 +1,10 @@
 ---
 title: Gizlilik Politikası
 ---
+[English](privacy.html)
 
 
-Son güncelleme: 26 Eylül 2026
+Son güncelleme: 11 Ekim 2026
 
 Bu politika, Atenso tarafından geliştirilen Growia Android uygulamasının ("Uygulama") hangi verileri, hangi amaçla ve nasıl işlediğini açıklar. Sorularınız için atensostudio@gmail.com adresine yazabilirsiniz.
 
@@ -73,7 +74,11 @@ Uygulama bir kez, Google Play'in kendi değerlendirme penceresini gösterebilir.
 
 ## Çökme raporları (Firebase Crashlytics)
 
-Uygulama çökerse, hatanın teknik ayrıntıları (hangi ekranda ve hangi kod satırında olduğu), cihaz modeli, Android ve Uygulama sürümü ile rastgele bir kurulum kimliği Google'ın Firebase Crashlytics hizmetine gönderilir. Bu bilgiler yalnızca hataları bulup düzeltmek için kullanılır ve 90 gün saklanır. Bitkileriniz, fotoğraflarınız, notlarınız ve hesap bilgileriniz gönderilmez. Ayarlar > Çökme raporlarını gönder anahtarıyla bu gönderimi istediğiniz zaman kapatabilirsiniz.
+Uygulama çökerse, hatanın teknik ayrıntıları (hangi ekranda ve hangi kod satırında olduğu), cihaz modeli, Android ve Uygulama sürümü ile rastgele bir kurulum kimliği Google'ın Firebase Crashlytics hizmetine gönderilir. Bu bilgiler yalnızca hataları bulup düzeltmek için kullanılır ve 90 gün saklanır. Bitkileriniz, fotoğraflarınız, notlarınız ve hesap bilgileriniz gönderilmez. Ayarlar > Çökme ve performans raporlarını gönder anahtarıyla bu gönderimi istediğiniz zaman kapatabilirsiniz.
+
+## Performans ölçümleri (Firebase Performance Monitoring)
+
+Uygulamanın hızlı çalışıp çalışmadığını görmek için bazı işlemlerin ne kadar sürdüğü ölçülür: uygulamanın açılışı, kameranın açılması, fotoğrafın çekilip yüklenmesi, bitki tanıma modelinin yüklenmesi ve tanımanın süresi. Bu ölçümlerle birlikte cihaz modeli, Android ve Uygulama sürümü, telefonun yaklaşık RAM miktarı, o anki bellek kullanımı ve telefonun ısınma durumu Google'ın Firebase Performance Monitoring hizmetine gönderilir. Bu bilgiler yalnızca Uygulamayı daha hızlı ve kararlı hâle getirmek için kullanılır. Fotoğraflarınız, bitkileriniz, tanıma sonuçlarınız ve hesap bilgileriniz gönderilmez. Bu gönderim de aynı anahtara bağlıdır: Ayarlar > Çökme ve performans raporlarını gönder kapatılırsa hiçbir ölçüm gönderilmez.
 
 ## Verilerin paylaşılması
 

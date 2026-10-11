@@ -2,17 +2,18 @@
 title: Growia
 ---
 
-Growia, Atenso tarafından geliştirilen bir bitki bakım uygulamasıdır.
-Bitkilerinizi ekleyip sulama ve bakım hatırlatıcıları kurmanızı,
-fotoğraf günlüğü tutmanızı ve Akıllı Araçlar ile bitkinizin
-ışık, su ve sağlık durumunu değerlendirmenizi sağlar.
+[Türkçe](tr.html)
 
-## Yasal metinler
+Growia is a plant care app developed by Atenso. Add your plants, set watering and care
+reminders, keep a photo journal, and use Smart Tools to check your plant's light, water and
+health.
 
-- [Gizlilik Politikası](gizlilik.html)
-- [Hesap ve Veri Silme](hesap-silme.html)
-- [Kamerayla tanıma — eğitim fotoğraflarının künyesi](tanima-kaynaklari.html)
+## Legal
 
-## İletişim
+- [Privacy Policy](privacy.html)
+- [Account and Data Deletion](account-deletion.html)
+- [Camera identification — training photo credits](tanima-kaynaklari.html) (Turkish)
+
+## Contact
 
 Atenso — atensostudio@gmail.com

@@ -1,6 +1,7 @@
 ---
 title: Hesap ve Veri Silme
 ---
+[English](account-deletion.html)
 
 
 Bu sayfa, Atenso tarafından geliştirilen **Growia** Android uygulamasında Google hesabıyla
